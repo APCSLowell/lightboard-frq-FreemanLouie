@@ -34,7 +34,7 @@ public class LightBoard
 
     for(int r = 0; r < lights.length; r++) 
       {
-        if(lights[r][c]) 
+        if(lights[r][col]) 
         {
           numOn++;
         }
